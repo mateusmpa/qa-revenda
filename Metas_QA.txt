@@ -1,4 +1,4 @@
-Meta QA:
+Metas QA:
 
 Ter 100% das funcionalidades criticas dos paineis automatizadas
 
