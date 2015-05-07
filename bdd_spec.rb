@@ -95,9 +95,9 @@ describe "na contratação de um IP adicional" do
 
 	describe "quando o produto principal é revenda cPanel" do
 		context "verifica valor do produto" do
-			xit "através da central do cliente"
+			xit "através da contratação pela central do cliente"
 			end
-			xit "através do cal"
+			xit "através da contratação pelo cal"
 			end
 		end
 		context "contrata apenas um IP" do
