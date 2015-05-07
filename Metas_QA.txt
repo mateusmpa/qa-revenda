@@ -1,0 +1,35 @@
+Meta QA:
+
+Ter 100% das funcionalidades criticas dos paineis automatizadas
+
+Levantamento dos testes das funcionalidades criticas
+Identificar quais testes já estão prontos
+Criação da automação funcional
+
+====================================================================
+
+Principais funcionalidades da revenda:
+
+- Reseller-Provisioning (http://confluence.locaweb.com.br/display/paas/reseller-provisioning)
+	Contratar revenda
+	Contratar adicional
+	Upgrade revenda *
+	Update adicional
+	Cancelar adicional
+	Cancelar revenda
+
+- Reseller-Conciliator (http://confluence.locaweb.com.br/display/paas/Reseller-Conciliator)
+	Enviar e-mail
+	Receber e-mail
+	Monitorar status do servidor
+	Verificar estatisticas dos serviços
+
+- Reseller-Migration (http://confluence.locaweb.com.br/display/paas/Reseller-Migration)
+	Migrar e-mails
+
+
+
+
+* Não será possível automatizar upgrade na revenda plesk 11.0, pois o "plesky" (http://confluence.locaweb.com.br/display/TEC0015/Revenda+Plesk+11+-+Plesky+API) é responsável pelo provisionamento e não temos este webservice em SysInt.
+
+
